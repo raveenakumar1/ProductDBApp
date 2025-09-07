@@ -1,4 +1,4 @@
-# ProductManagerApp
+# ProductDBApp
 
 An Android app to manage products using a local SQLite database. Users can add new products, look up existing products, delete products, and view an About page.
 
